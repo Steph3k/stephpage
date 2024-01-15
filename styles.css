@@ -1,0 +1,11 @@
+.profile-photo, .cv-photo, .contact-photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Optional: for rounded corners */
+    margin: 10px 0; /* Spacing around the image */
+}
+
+/* Example: Specific styling for different photo classes */
+.cv-photo {
+    max-width: 50%; /* Adjust size as needed */
+}
